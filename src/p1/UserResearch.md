@@ -72,3 +72,11 @@ Eles podem criar tópicos específicos para cada projeto, acompanhar o progresso
 - Acompanhar as atualizações do fórum:
 Estudantes podem acompanhar as atualizações recentes no fórum, como novos tópicos, respostas ou anúncios importantes.
 Isso permite que eles estejam atualizados sobre as discussões relevantes e participem ativamente do fórum.
+
+Materiais utilizados:
+
+- Site da CodeLab: https://www.codelab-unifesp.org/
+- Repositório do projeto:
+  - API: https://github.com/UnifespCodeLab/plasmedis-api
+  - Web: https://github.com/UnifespCodeLab/plasmedis-web
+- Protótipo original: https://www.figma.com/file/Z0QdeIBaIOQEqHDpdP8Dqe/Admin-dash?type=design&node-id=1-41&t=SCmjqePTBwpX8dkp-0
