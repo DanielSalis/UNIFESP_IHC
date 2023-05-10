@@ -17,3 +17,30 @@ outras ferramentas educacionais e recursos adicionais que aprimoram a experiênc
 Em resumo, o projeto consiste em um fórum privado e personalizado destinado a estudantes, fornecendo-lhes uma plataforma segura para interagir, compartilhar conhecimentos e colaborar em um ambiente 
 educacional.
  
+### (b) fornecer uma lista de interessados ​​e descrevê-los no que se refere ao projeto do sistema;
+
+ - Estudantes:
+São os usuários principais do sistema de fórum.
+Utilizam o fórum para se comunicar, colaborar, compartilhar conhecimentos e obter respostas para suas perguntas.
+Esperam uma plataforma fácil de usar, segura e personalizada para atender às suas necessidades educacionais.
+
+- Administradores da instituição educacional:
+São responsáveis por gerenciar o sistema de fórum e garantir que ele funcione adequadamente.
+Configuram as permissões de acesso, categorias e recursos do fórum.
+Monitoram a atividade do fórum e tomam medidas para manter um ambiente seguro e produtivo para os estudantes.
+
+- Professores:
+Podem usar o fórum para fornecer suporte e orientação aos estudantes.
+Criam tópicos de discussão, respondem a perguntas e avaliam a participação dos estudantes.
+Podem usar o fórum para promover a discussão de tópicos relevantes ao currículo e estimular a interação entre os estudantes.
+
+- Equipe de TI da instituição educacional (equipe da CodeLab):
+São responsáveis por implantar, configurar e manter o sistema de fórum.
+Gerenciam a infraestrutura necessária para garantir a disponibilidade e segurança do fórum.
+Oferecem suporte técnico aos usuários e solucionam problemas relacionados ao sistema.
+
+Casos de uso atuais:
+
+- IBEAC: Instituto Brasileiro de Estudos e Apoio Comunitário Queiróz Filho. Nesta versão de sistema de cooperação com o IBEAC, os estudantes trabalham no contexto de um dos projetos do instituto, o CEPI (Centro de Excelência em Primeira Infância). Uma das necessidades do CEPI é promover a troca de informações e conhecimentos entre as gestantes e puérperas e destas com especialistas e voluntárias e voluntários do próprio Centro, além de pais, avós e demais familiares e amigos envolvidos com sua situação. A ideia do projeto é criar uma plataforma de software que permita de uma forma fácil e amigável esta interação.
+
+- TEApp: A plataforma também foi utilizada no trabalho de mestrado da aluna Valdirene Aparecida Armenara (Ferramentas de Apoio ao Professor de Ensino Superior Sobre o Estudante com TEA: Manual e Comunidade Virtual de Aprendizagem), sob orientação das professoras Denise Stringhini e Maria Elizete Kunkel. Neste trabalho, a ferramenta foi adaptada para a criação de uma Comunidade Virtual de Aprendizagem (CVA) que reuniu docentes do ensino superior e especialistas em Transtorno do Espectro Autista (TEA) com objetivo de apoiar os docentes a acolherem estudantes com TEA de maneira apropriada. A autora atuou como moderadora e realizou testes que indicaram benefícios deste tipo de ferramenta na criação de CVAs.
