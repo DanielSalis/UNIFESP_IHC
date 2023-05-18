@@ -47,6 +47,24 @@ Casos de uso atuais:
 
 - TEApp: A plataforma também foi utilizada no trabalho de mestrado da aluna Valdirene Aparecida Armenara (Ferramentas de Apoio ao Professor de Ensino Superior Sobre o Estudante com TEA: Manual e Comunidade Virtual de Aprendizagem), sob orientação das professoras Denise Stringhini e Maria Elizete Kunkel. Neste trabalho, a ferramenta foi adaptada para a criação de uma Comunidade Virtual de Aprendizagem (CVA) que reuniu docentes do ensino superior e especialistas em Transtorno do Espectro Autista (TEA) com objetivo de apoiar os docentes a acolherem estudantes com TEA de maneira apropriada. A autora atuou como moderadora e realizou testes que indicaram benefícios deste tipo de ferramenta na criação de CVAs.
 
+### (d) reflita sobre seu uso dos métodos -- o que deu certo, o que deu errado e o que você faria diferente
+
+- Método **Survey**
+
+A pesquisa realizada previamente pela Valdirene nos garantiu insights abrangentes, a coleta resultou em alguns dados quantitativos e na identificação de tendências. Ela foi realizada através de Google Forms, preenchidos individualmente por cada participante, economizando tempo e recursos. 
+
+Entretanto, perguntas mal formuladas ou respostas ambíguas podem ter levado a interpretações equivocadas dos dados coletados, além de que alguns participantes podem ter características diferentes dos demais, o que pode introduzir viés nos resultados.
+
+Em uma outra oportunidade, poderíamos realizar um novo questionário com perguntas mais claras, objetivas e não tendenciosas para garantir respostas precisas e confiáveis. Outra melhoria seria segmentar os questionários para diferentes grupos de usuários, e complementar os questionários com outros métodos, como entrevistas, para obter insights mais profundos e compreender melhor as respostas dos participantes.
+
+- Método **Try it yourself**
+
+Este método permitiu que conseguíssemos experimentar diretamente o sistema, fornecendo feedback imediato baseado em uma experiência real. Foi possível identificar falhas, dificuldades de uso e pontos problemáticos que não haviam sido previstos anteriormente.
+
+No entanto, a experiência pode ter sido influenciada pelo ambiente em que o teste foi realizado (nosso teste foi realizado localmente, visto que o sistema ainda não está disponível online). A familiriadade com o sistema pode também ter distorcido um pouco a percepção e feedback.
+
+Como melhoria, poderíamos criar cenários de uso mais realistas com as situações em que o sistema será utilizado e combinar a experimentação com a observação direta dos usuários para entender seus comportamentos, desafios e reações durante o teste. O ideal seria fazer um teste contínuo com diversos usuários, pois dessa forma conseguíriamos aprimorar o sistema em cada iteração. Além disso, teríamos que selecionar cuidadosamente os participantes.
+
 ### (e) forneça de 6 a 8 descrições de tarefas de como você espera que o sistema seja usado.
 
 - Criar um novo tópico de discussão:
