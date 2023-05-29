@@ -2,23 +2,23 @@
 
 ### (a) uma descrição sucinta de sua ideia de projeto, como você espera que seu sistema seja usado, por quem e o contexto em que você espera que ele seja usado;
 
-PlasMeDIS: Plataforma Social Moderada para a Disseminação de Informações sobre Saúde. Esse projeto é um fórum privado e personalizado projetado para facilitar a comunicação e colaboração entre estudantes. 
+PlasMeDIS: Plataforma Social Moderada para a Disseminação de Informações sobre Saúde. Esse projeto é um fórum privado e personalizado projetado para facilitar a comunicação e colaboração entre estudantes.
 O sistema é idealmente destinado a estudantes de uma instituição educacional, como uma universidade, escola de ensino médio ou qualquer outro ambiente de aprendizado.
 
-Espera-se que o sistema seja usado por estudantes matriculados na instituição, permitindo que eles compartilhem informações, discutam tópicos relevantes, façam perguntas, forneçam respostas e 
-colaborem em projetos. O fórum oferece uma plataforma segura e restrita apenas aos usuários registrados da comunidade educacional, garantindo que apenas pessoas autorizadas tenham acesso às discussões 
+Espera-se que o sistema seja usado por estudantes matriculados na instituição, permitindo que eles compartilhem informações, discutam tópicos relevantes, façam perguntas, forneçam respostas e
+colaborem em projetos. O fórum oferece uma plataforma segura e restrita apenas aos usuários registrados da comunidade educacional, garantindo que apenas pessoas autorizadas tenham acesso às discussões
 e informações compartilhadas.
 
-O contexto em que esperamos que o fórum seja usado é um ambiente educacional, onde os estudantes estão engajados em estudos, projetos e atividades relacionadas ao currículo. 
-O sistema do fórum visa melhorar a interação entre os estudantes, promover a troca de conhecimentos e ideias, permitir a discussão de questões relevantes e fornecer um espaço virtual seguro para a 
+O contexto em que esperamos que o fórum seja usado é um ambiente educacional, onde os estudantes estão engajados em estudos, projetos e atividades relacionadas ao currículo.
+O sistema do fórum visa melhorar a interação entre os estudantes, promover a troca de conhecimentos e ideias, permitir a discussão de questões relevantes e fornecer um espaço virtual seguro para a
 comunidade estudantil.
 
-Além disso, o fórum pode ser personalizado para atender às necessidades específicas da instituição educacional, permitindo a criação de categorias temáticas, moderação de conteúdo, integração com 
+Além disso, o fórum pode ser personalizado para atender às necessidades específicas da instituição educacional, permitindo a criação de categorias temáticas, moderação de conteúdo, integração com
 outras ferramentas educacionais e recursos adicionais que aprimoram a experiência de aprendizado colaborativo.
 
-Em resumo, o projeto consiste em um fórum privado e personalizado destinado a estudantes, fornecendo-lhes uma plataforma segura para interagir, compartilhar conhecimentos e colaborar em um ambiente 
+Em resumo, o projeto consiste em um fórum privado e personalizado destinado a estudantes, fornecendo-lhes uma plataforma segura para interagir, compartilhar conhecimentos e colaborar em um ambiente
 educacional.
- 
+
 ### (b) fornecer uma lista de interessados e descrevê-los no que se refere ao projeto do sistema;
 
  - Estudantes:
@@ -47,11 +47,49 @@ Casos de uso atuais:
 
 - TEApp: A plataforma também foi utilizada no trabalho de mestrado da aluna Valdirene Aparecida Armenara (Ferramentas de Apoio ao Professor de Ensino Superior Sobre o Estudante com TEA: Manual e Comunidade Virtual de Aprendizagem), sob orientação das professoras Denise Stringhini e Maria Elizete Kunkel. Neste trabalho, a ferramenta foi adaptada para a criação de uma Comunidade Virtual de Aprendizagem (CVA) que reuniu docentes do ensino superior e especialistas em Transtorno do Espectro Autista (TEA) com objetivo de apoiar os docentes a acolherem estudantes com TEA de maneira apropriada. A autora atuou como moderadora e realizou testes que indicaram benefícios deste tipo de ferramenta na criação de CVAs.
 
+
+### (c) Discutir os métodos de pesquisa do usuário que você usou, fornecer justificativa para eles e fornecer um resumo de suas descobertas de cada um desses métodos;
+Uma pesquisa foi realizada na aplicação de um Projeto de mestrado da aluna Valdirene Armenara. Houve a participação de professores, especialistas em inclusão escolar, e estudantes com Transtorno do Espectro Autista (TEA) em uma pesquisa. No total, 15 professores foram convidados, mas apenas 12 participaram efetivamente nas fases de demonstração e avaliação. Foram convidados 16 professores especialistas da Unifesp, dos quais 6 aceitaram o convite, mas somente 3 participaram das fases de demonstração e avaliação.
+
+Os estudantes com TEA foram indicados pelo NAI Unifesp/SJC, sendo um total de 6 indicados, porém apenas 4 aceitaram o convite para participar da pesquisa. Além dos professores da Unifesp e dos estudantes com TEA, um grupo de profissionais externos, especialistas em inclusão escolar de pessoas com TEA, foi convidado a participar. Inicialmente, a autora divulgou a pesquisa em um aplicativo de mensagens e recebeu interesse de 18 profissionais, mas devido à necessidade de respeitar a proporção aprovada pelo CEP, apenas 6 profissionais receberam o convite formal da pesquisa.
+
+Os participantes receberam um e-mail convite que continha o link para acessar o Termo de Consentimento Livre Esclarecido (TCLE). Somente aqueles que responderam ao TCLE aceitando os termos receberam o e-mail com os links de acesso ao manual e ao aplicativo TEApp.
+
+A pesquisadora atuou como moderadora em uma comunidade virtual de aprendizagem, que era uma rede social especializada, restrita e moderada. Ela cadastrou os novos usuários, criou senha e login, e enviou um e-mail com o link de acesso, login e senha. Além dos participantes convidados, as orientadoras da pesquisa e um aluno da graduação da equipe do CodeLab foram cadastrados para acompanhar a evolução da CVA TEApp durante as fases de demonstração e avaliação. As orientadoras atuaram como moderadoras para acompanhar as interações, enquanto o estudante do CodeLab foi o administrador responsável pela parte técnica da CVA TEApp.
+
+Ao final da pesquisa um questionário foi aplicado `a todos os participantes. Aplicá-lo pode fornecer informações valiosas sobre a experiência e satisfação dos usuários, bem como identificar possíveis problemas ou áreas de melhoria. Alguns resultados da pesquisa podem ser conferidos nas imagens abaixo:
+
+![Gráfico 01](./images/01.png)
+![Gráfico 02](./images/02.png)
+![Gráfico 03](./images/03.png)
+![Gráfico 04](./images/04.png)
+![Gráfico 05](./images/05.png)
+![Gráfico 06](./images/06.png)
+![Gráfico 07](./images/07.png)
+![Gráfico 08](./images/08.png)
+![Gráfico 09](./images/09.png)
+![Gráfico 10](./images/10.png)
+![Gráfico 11](./images/11.png)
+![Gráfico 12](./images/12.png)
+![Gráfico 13](./images/13.png)
+
+Algumas conclusões rápidas que podemos tirar disso são que:
+- Para fins de um fórum privado, os usuários tenderam a utilizar a aplicação via desktop (um design mobile first não seria ideal)
+
+- Implementar features de pulse notification / notificação por email aumentam o engajamento e utilização
+
+- A aplicação ainda precisa melhorar ferramentas de engajamento (criação de uma feature / botão de compartilhamento, implementar suporte a áudio / vídeos seria interessante)
+
+- Será necessário reformar infomações de segurança
+
+- As abas contendo as categorias facilitaram a navegação, no entanto um mecanismo de busca por texto poderia auxiliar o encontro de postagens
+
+
 ### (d) reflita sobre seu uso dos métodos -- o que deu certo, o que deu errado e o que você faria diferente
 
 - Método **Survey**
 
-A pesquisa realizada previamente pela Valdirene nos garantiu insights abrangentes, a coleta resultou em alguns dados quantitativos e na identificação de tendências. Ela foi realizada através de Google Forms, preenchidos individualmente por cada participante, economizando tempo e recursos. 
+A pesquisa realizada previamente pela Valdirene nos garantiu insights abrangentes, a coleta resultou em alguns dados quantitativos e na identificação de tendências. Ela foi realizada através de Google Forms, preenchidos individualmente por cada participante, economizando tempo e recursos.
 
 Entretanto, perguntas mal formuladas ou respostas ambíguas podem ter levado a interpretações equivocadas dos dados coletados, além de que alguns participantes podem ter características diferentes dos demais, o que pode introduzir viés nos resultados.
 
