@@ -73,6 +73,8 @@ Ao final da pesquisa um questionário foi aplicado `a todos os participantes. Ap
 ![Gráfico 12](./images/12.png)
 ![Gráfico 13](./images/13.png)
 
+[Mais informações podem ser encontradas no texto original] (https://repositorio.unifesp.br/handle/11600/65996)
+
 Algumas conclusões rápidas que podemos tirar disso são que:
 - Para fins de um fórum privado, os usuários tenderam a utilizar a aplicação via desktop (um design mobile first não seria ideal)
 
@@ -136,3 +138,4 @@ Materiais utilizados:
   - API: https://github.com/UnifespCodeLab/plasmedis-api
   - Web: https://github.com/UnifespCodeLab/plasmedis-web
 - Protótipo original: https://www.figma.com/file/Z0QdeIBaIOQEqHDpdP8Dqe/Admin-dash?type=design&node-id=1-41&t=SCmjqePTBwpX8dkp-0
+- Valdirene Armenara, Ferramentas de apoio ao professor de ensino superior sobre o estudante com TEA: manual e comunidade virtual de aprendizagem: https://repositorio.unifesp.br/handle/11600/65996
