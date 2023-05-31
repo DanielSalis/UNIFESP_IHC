@@ -55,18 +55,44 @@ A pesquisadora atuou como moderadora em uma comunidade virtual de aprendizagem, 
 
 Ao final da pesquisa um questionário foi aplicado `a todos os participantes. Aplicá-lo pode fornecer informações valiosas sobre a experiência e satisfação dos usuários, bem como identificar possíveis problemas ou áreas de melhoria. Alguns resultados da pesquisa podem ser conferidos nas imagens abaixo:
 
+### Impressões sobre o aplicativo. Indicações de como o participante se sentiu quanto a afirmação: O aplicativo é intuitivo e fácil de usar
 ![Gráfico 01](./images/01.png)
+
+### Impressões sobre o aplicativo. Indicações de como o participante se sentiu quanto a afirmação: Houve engajamento no uso do aplicativo por parte da maioria dos usuários
 ![Gráfico 02](./images/02.png)
+
+### Impressões sobre o aplicativo. Indicações de como o participante se sentiu quanto a afirmação: O aplicativo não tem funcionalidades que motivem o engajamento
 ![Gráfico 03](./images/03.png)
+
+### Impressões sobre o aplicativo. Indicações de como o participante se sentiu quanto a afirmação: As postagens interessantes são facilmente encontradas
 ![Gráfico 04](./images/04.png)
+
+### Impressões sobre o aplicativo. Indicações de como o participante se sentiu quanto a afirmação: A organização dos assuntos em abas facilita a navegação entre os assuntos de interesse
 ![Gráfico 05](./images/05.png)
+
+### Impressões sobre o aplicativo. Indicações de como o participante se sentiu quanto a afirmação: As perguntas dos professores ampliaram minha reflexão sobre o tema TEA no Ensino
+Superior
 ![Gráfico 06](./images/06.png)
+
+### Impressões sobre o aplicativo. Indicações de como o participante se sentiu quanto a afirmação: A presença de especialistas (moderadores) trouxe benefícios ao uso do aplicativo
 ![Gráfico 07](./images/07.png)
+
+### Impressões sobre o aplicativo. Indicações de como o participante se sentiu quanto a afirmação: O acesso a materiais recomendados pelos especialistas foi dificultado pelo uso do aplicativo
 ![Gráfico 08](./images/08.png)
+
+### Impressões sobre o aplicativo. Indicações de como o participante se sentiu quanto a afirmação: A privacidade da rede fechada me deixou mais à vontade ao usar o aplicativo
 ![Gráfico 09](./images/09.png)
+
+### Impressões sobre o aplicativo. Indicações de como o participante se sentiu quanto a afirmação: A comunidade virtual de aprendizagem é uma boa abordagem para tratar de temas de saúde
 ![Gráfico 10](./images/10.png)
+
+### Impressões sobre o aplicativo. Indicações de como o participante se sentiu quanto a afirmação: Não ficou claro se meus dados estão protegidos
 ![Gráfico 11](./images/11.png)
+
+### Impressões sobre o aplicativo. Indicações de como o participante se sentiu quanto a afirmação: Não vejo benefícios em usar um aplicativo específico para a rede fechada, prefiro as redes comuns
 ![Gráfico 12](./images/12.png)
+
+### Impressões sobre o aplicativo. Indicações de como o participante se sentiu quanto a afirmação: Receber e-mails diários sobre os acontecimentos na CVA TEApp me estimulou a participar da comunidade virtual de aprendizagem
 ![Gráfico 13](./images/13.png)
 
 [Mais informações podem ser encontradas no texto original](https://repositorio.unifesp.br/handle/11600/65996)
