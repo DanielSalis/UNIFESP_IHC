@@ -14,7 +14,7 @@ Com base nas tarefas descritas na atividade anterior e nas conclusões tiradas a
 
 Com essas funcionalidades e as demais que já existem na plataforma, o grupo repensou algumas telas do sistema para que contemplassem as necessidades dos usuários e atendessem o máximo possível de boas práticas de UI e UX. O protótipo está disponível no link abaixo:
 
-https://whimsical.com/low-fidelity-prototype-GSJa9b8ASjtEfYCLUGd8S8
+[https://whimsical.com/low-fidelity-prototype-GSJa9b8ASjtEfYCLUGd8S8](https://whimsical.com/low-fidelity-prototype-GSJa9b8ASjtEfYCLUGd8S8)
 
 O primeiro conjunto de 5 telas se refere ao fluxo da página de "login" e criação de conta:
 
